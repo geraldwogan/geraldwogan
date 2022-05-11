@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geraldwogan" alt="geraldwogan" /></a> </p>
 
-- 🔭 I’m currently working on [automating the process of applying apartment ads.](https://github.com/geraldwogan/apartment-application-automation)
+- 🔭 I’m currently working on [automating the process of replying to apartment ads.](https://github.com/geraldwogan/apartment-application-automation)
 
 - 🌱 I’m currently learning **Spring, Selenium**
 
-- 👨‍💻 All of my projects are available at [https://github.com/geraldwogan](https://github.com/geraldwogan)
+- 👨‍💻 All of my projects are available here at [https://github.com/geraldwogan](https://github.com/geraldwogan)
 
 - 📫 How to reach me **geraldwogan@gmail.com**
 
