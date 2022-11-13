@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geraldwogan" alt="geraldwogan" /></a> </p>
 
-- 🔭 I’m currently working on [automating the process of replying to apartment ads.](https://github.com/geraldwogan/apartment-application-automation)
+- 🔭 I’m currently working on [automating the process of replying to apartment ads](https://github.com/geraldwogan/apartment-application-automation) and some [leetcode solutions](https://github.com/geraldwogan/leetcode), of course!
 
 - 🌱 I’m currently learning **Spring, Selenium**
 
@@ -50,5 +50,11 @@
 <!--   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  -->
   
 <!--   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  -->
-  
+
+<!--
+Percentage of code in X language
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraldwogan&show_icons=true&locale=en&layout=compact" alt="geraldwogan" /></p>
+
+GitHub Stats (Stars, Commits, PRs...)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldwogan&show_icons=true&locale=en" alt="geraldwogan" /></p>
+-->
